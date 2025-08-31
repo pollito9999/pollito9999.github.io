@@ -95,7 +95,7 @@ overlay.style.alignItems = 'center';
 overlay.style.fontSize = '24px';
 overlay.style.cursor = 'pointer';
 overlay.style.zIndex = '9999';
-overlay.innerText = 'click to view the web';
+overlay.innerText = 'click to view the web (open in browser)';
 document.body.appendChild(overlay);
 
 
